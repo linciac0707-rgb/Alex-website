@@ -1,0 +1,1 @@
+.profile-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 34%;filter:grayscale(1) contrast(1.15);opacity:.74;mix-blend-mode:screen}.hero-art:after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(0,0,0,.2),rgba(215,25,45,.18));pointer-events:none}.art-note{z-index:2}
